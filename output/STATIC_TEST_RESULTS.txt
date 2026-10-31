@@ -1,0 +1,21 @@
+test_aggregate_critical_failure_gate (test_static.StaticTests.test_aggregate_critical_failure_gate) ... ok
+test_all_registers_present (test_static.StaticTests.test_all_registers_present) ... ok
+test_api_rejects_truncated_or_abnormal_completion (test_static.StaticTests.test_api_rejects_truncated_or_abnormal_completion) ... ok
+test_api_serialization_and_failure (test_static.StaticTests.test_api_serialization_and_failure) ... ok
+test_deliverables_present (test_static.StaticTests.test_deliverables_present) ... ok
+test_known_directive_conflicts (test_static.StaticTests.test_known_directive_conflicts) ... ok
+test_no_duplicate_substantive_paragraphs (test_static.StaticTests.test_no_duplicate_substantive_paragraphs) ... ok
+test_operational_length_and_fallback (test_static.StaticTests.test_operational_length_and_fallback) ... ok
+test_original_hashes (test_static.StaticTests.test_original_hashes) ... ok
+test_prompt_variants_and_fixture_order (test_static.StaticTests.test_prompt_variants_and_fixture_order) ... ok
+test_rubric_and_critical_failure_rules (test_static.StaticTests.test_rubric_and_critical_failure_rules) ... ok
+test_scenario_schema_and_coverage (test_static.StaticTests.test_scenario_schema_and_coverage) ... ok
+test_schema_rejects_broken_history_and_duplicate (test_static.StaticTests.test_schema_rejects_broken_history_and_duplicate) ... ok
+test_scores_reject_unscored_or_incomplete (test_static.StaticTests.test_scores_reject_unscored_or_incomplete) ... ok
+test_sections_have_content (test_static.StaticTests.test_sections_have_content) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.021s
+
+OK
+Wrote scored comparison

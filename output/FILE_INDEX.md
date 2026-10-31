@@ -1,0 +1,25 @@
+# Deliverable index
+
+All paths are relative to /workspace/Revy-Project. Start with output/QUICK_START.md.
+
+- [originals/Revy_Master_Personality_and_Operating_Reference.md](../originals/Revy_Master_Personality_and_Operating_Reference.md)
+- [originals/Revy_Project_Instructions.md](../originals/Revy_Project_Instructions.md)
+- [output/AUDIT.md](../output/AUDIT.md)
+- [output/CHANGELOG.md](../output/CHANGELOG.md)
+- [output/Continuity_Log_Template.md](../output/Continuity_Log_Template.md)
+- [output/DRY_RUN_MANIFEST.json](../output/DRY_RUN_MANIFEST.json)
+- [output/EVALUATION_REPORT.md](../output/EVALUATION_REPORT.md)
+- [output/QUICK_START.md](../output/QUICK_START.md)
+- [output/README_Deployment.md](../output/README_Deployment.md)
+- [output/Revy_Master_Reference_Optimized.md](../output/Revy_Master_Reference_Optimized.md)
+- [output/Revy_Project_Instructions_Optimized.md](../output/Revy_Project_Instructions_Optimized.md)
+- [output/STATIC_TEST_RESULTS.txt](../output/STATIC_TEST_RESULTS.txt)
+- [tests/RUBRIC.md](../tests/RUBRIC.md)
+- [tests/SOURCE_START_HERE.md](../tests/SOURCE_START_HERE.md)
+- [tests/SOURCE_TASK.md](../tests/SOURCE_TASK.md)
+- [tests/evaluate.py](../tests/evaluate.py)
+- [tests/original_hashes.json](../tests/original_hashes.json)
+- [tests/scenarios.json](../tests/scenarios.json)
+- [tests/test_static.py](../tests/test_static.py)
+- output/FILE_INDEX.md (this index)
+- output/Revy_Optimization_Kit.zip (complete kit)

@@ -1,0 +1,17 @@
+{
+  "status": "DRY RUN",
+  "model": "UNCONFIGURED",
+  "samples": 3,
+  "order_seed": 20261031,
+  "temperature": 0.7,
+  "max_tokens": 600,
+  "planned_requests": 360,
+  "completed_requests": 0,
+  "prompt_sha256": {
+    "baseline": "f0f27ee12ae37bb3c466f3801d8148efa0b8adf7957d73d68e8b147fb150b991",
+    "revised": "bdb0b3ef8a9ecac6afc7f15e8c290ceae86848e2d17943b458619b5224927ba7"
+  },
+  "dataset_sha256": "5f5f9760398351129881ff608d91b02b0ce239b2b2a02af246cc46f2a8d26367",
+  "endpoint_host": null,
+  "limitations": "Full master text supplied; no ChatGPT retrieval, voice audio, or memory persistence tested. Synthetic fixtures only."
+}
